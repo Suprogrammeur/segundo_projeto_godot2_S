@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "60c1f04b5fc8fe90",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8bb0367b4af5fa",
+        "type": "tabs",
+        "dimension": 47.66355140186916,
+        "children": [
+          {
+            "id": "d1a144136cbba1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgJogosQua16h/Git-Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git-Github"
+            }
+          }
+        ]
+      },
+      {
+        "id": "676eda880a8d1b2a",
+        "type": "tabs",
+        "dimension": 52.336448598130836,
+        "children": [
+          {
+            "id": "75e37982fa1292df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgJogosQua16h/Git-Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git-Github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4644657d42798e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc9638a2cc975d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf8dde76bd7bf3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "eaaba555fb935b87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "84d4865db14fc30e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7b54865aa1f1dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e768c87c1952e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c75911514bb26a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ProgJogosQua16h/Git-Github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Git-Github"
+            }
+          },
+          {
+            "id": "48af555da8cf892c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ProgJogosQua16h/Git-Github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Git-Github"
+            }
+          },
+          {
+            "id": "30a0c7e5644c2d56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5c2bfe12d7f59e41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "cba7ff3217ffaa36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ProgJogosQua16h/Git-Github.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Git-Github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "d1a144136cbba1c2",
+  "lastOpenFiles": [
+    "ProgJogosQua16h/Git-Github.md",
+    "ProgJogosQua16h",
+    "Bem-vindo.md"
+  ]
+}
